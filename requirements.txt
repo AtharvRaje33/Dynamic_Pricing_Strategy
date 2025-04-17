@@ -1,5 +1,7 @@
+pandas 
 numpy
-pandas
 matplotlib
 stable-baselines3
 scikit-learn
+openpyxl
+gymnasium
