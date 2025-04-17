@@ -1,1 +1,1 @@
-# Dynamic-Pricing-Stragegy
+# Dynamic-Pricing-Strategy
