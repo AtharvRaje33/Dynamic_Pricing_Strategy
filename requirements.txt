@@ -1,6 +1,5 @@
 numpy
 pandas
 matplotlib
-gym
 stable-baselines3
 scikit-learn
