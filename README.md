@@ -111,17 +111,6 @@ The system evaluates DQN and A2C for two products:
 - Experiment with additional RL algorithms (e.g., PPO, SAC).
 - Add real-time data integration for live pricing adjustments.
 
-## Contributing
-Contributions are welcome! Please:
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -m 'Add your feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgments
 - UCI Machine Learning Repository for the Online Retail dataset.
 - Stable-Baselines3 for RL algorithm implementations.
